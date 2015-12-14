@@ -1,0 +1,18 @@
+{
+  "name": "crown",
+  "version": "1.0.0",
+  "description": "solve puzzle for GCHQ's Christmas Puzzle Part 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "DEBUG=crown node index.js",
+    "test": "DEBUG=crown node example.js"
+  },
+  "author": "Denis Tsoi <denistsoi@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^1.5.0",
+    "cheerio": "^0.19.0",
+    "debug": "^2.2.0",
+    "request": "^2.67.0"
+  }
+}
