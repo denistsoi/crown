@@ -2,7 +2,7 @@
 
 This year, intelligence agency [GCHQ.gov](http://www.gchq.gov.uk/press_and_media/news_and_features/Pages/Directors-Christmas-puzzle-2015.aspx) released a Christmas puzzle, whereby the first part was essentially a QR code nonogram.  
 
-![image of Nonogram](http://www.gchq.gov.uk/SiteCollectionImages/grid-shading-puzzle-lowres.jpg). 
+![image of Nonogram](https://raw.github.com/denistsoi/crown/master/screenshot.png). 
 
 The resulting image led the solver to this page below.
 [GCHQ.Gov](http://www.gchq.gov.uk/puzz/Pages/index.aspx)
@@ -27,3 +27,6 @@ npm test
 
 ### Contact
 Contact me on Twitter [Denis Tsoi](http://twitter.com/denistsoi)
+
+### License 
+MIT
